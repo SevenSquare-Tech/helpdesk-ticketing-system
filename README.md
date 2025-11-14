@@ -13,6 +13,8 @@ It includes seeded sample data and role-based authentication for Admin and Agent
 -   Simple and clean interface
 -   Ready-to-use seeded demo data
 
+[Step-by-Step Process to Build a Helpdesk Ticketing System with Chat & Reports in Laravel.](https://www.sevensquaretech.com/helpdesk-ticketing-system-laravel-chat-reports-github-code/)
+
 ---
 
 ## ⚙️ Installation Guide
